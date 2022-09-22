@@ -27,6 +27,7 @@ Executar comandos internamente no pod
  
 ```
 
+
 ## Expondo pods com services 
  O SVC faz  a comunicação entre os pod no cluster e expõe o pod.  
  **Label** - Entiquetar os pods. 
